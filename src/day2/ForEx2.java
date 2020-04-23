@@ -21,8 +21,6 @@ public class ForEx2 {
 		for(i=1; i<=9; i+=1 ) {
 			System.out.printf("%d x %d = %d\n", num, i ,num*i);	
 		}
-		for(i=1; i<=9; i+=1 ) {
-			System.out.println(num + " x " + i +" = "+num*i);
 		}
 
 	}
